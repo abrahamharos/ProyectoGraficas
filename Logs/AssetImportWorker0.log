@@ -532,3 +532,39 @@ Received Import Request.
   path: Assets/Materials/cloth_3.mat
   artifactKey: Guid(1a44110be72ce9e4bbf38a866d859da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Materials/cloth_3.mat using Guid(1a44110be72ce9e4bbf38a866d859da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0585eb216937e1c687c2d092339f4646') in 0.016563 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 164.347493 seconds.
+  path: Assets/BigFurniturePack/Models/Materials
+  artifactKey: Guid(55714643bea876344a15a8af689d9b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BigFurniturePack/Models/Materials using Guid(55714643bea876344a15a8af689d9b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac562cdd0472b423dfd4ff701d35fd34') in 0.006867 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23.958445 seconds.
+  path: Assets/Materials/ceramic.mat
+  artifactKey: Guid(0175d4afe00fd407790eaa6fbc756a20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/ceramic.mat using Guid(0175d4afe00fd407790eaa6fbc756a20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98dc6f77b12aa483e98338ec3bf54fbd') in 0.028817 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 132.339697 seconds.
+  path: Assets/Materials/dark_plastic.mat
+  artifactKey: Guid(30ef5d9b193944e49b98186725ac5c5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/dark_plastic.mat using Guid(30ef5d9b193944e49b98186725ac5c5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acbeec8baf8e130c399378174b4532c1') in 0.043144 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 69.174435 seconds.
+  path: Assets/Materials/ceramic.mat
+  artifactKey: Guid(0175d4afe00fd407790eaa6fbc756a20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/ceramic.mat using Guid(0175d4afe00fd407790eaa6fbc756a20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '330a6e2cfc565dcaf7b5f1a369abecc2') in 0.028732 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Materials/Metal.mat
+  artifactKey: Guid(443adcff9afae43b196062c6d4636f70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Metal.mat using Guid(443adcff9afae43b196062c6d4636f70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be1ebb8f6320d35402676904f25134d7') in 0.013981 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000481 seconds.
+  path: Assets/Materials/dark_plastic.mat
+  artifactKey: Guid(30ef5d9b193944e49b98186725ac5c5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/dark_plastic.mat using Guid(30ef5d9b193944e49b98186725ac5c5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e52f670056fcb64a9432cb401951799') in 0.024805 seconds 
