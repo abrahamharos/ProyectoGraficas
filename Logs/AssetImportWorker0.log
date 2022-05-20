@@ -266,3 +266,199 @@ Received Import Request.
   path: Assets/BigFurniturePack/Textures/wood_1.jpg
   artifactKey: Guid(e985334e4a9d3ab448b77393b5c06265) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/BigFurniturePack/Textures/wood_1.jpg using Guid(e985334e4a9d3ab448b77393b5c06265) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '485ea0ed79d5d34de9ac8318e407ce62') in 0.040500 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003380 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+2022-05-19 17:24:25.353 Unity[3806:66791] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x6000027b9420 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  1.413 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1413ms)
+		BeginReloadAssembly (212ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (68ms)
+		EndReloadAssembly (1117ms)
+			LoadAssemblies (169ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (370ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (55ms)
+			SetupLoadedEditorAssemblies (444ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (117ms)
+				ProcessInitializeOnLoadAttributes (307ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1503 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 204.3 MB.
+System memory in use after: 204.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2041.
+Total: 4.382771 ms (FindLiveObjects: 0.234441 ms CreateObjectMapping: 0.045159 ms MarkObjects: 4.075292 ms  DeleteObjects: 0.026719 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 212.760660 seconds.
+  path: Assets/Materials/Materials
+  artifactKey: Guid(db26a96bd58284e85a5412a7e88c178e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Materials using Guid(db26a96bd58284e85a5412a7e88c178e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '348dfe9a0481651e90bfca6ef15c3a2b') in 0.006122 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.091958 seconds.
+  path: Assets/Materials/Materials/floor.mat
+  artifactKey: Guid(343d074fb05a44baa95058803dcd7510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Materials/floor.mat using Guid(343d074fb05a44baa95058803dcd7510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faf7f8a548d906529726fcb82610c4d0') in 0.091316 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 33.879542 seconds.
+  path: Assets/Textures
+  artifactKey: Guid(9992d305351234deaab93b58c20e8e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures using Guid(9992d305351234deaab93b58c20e8e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cefdef1ec790edefc9f7109d2d4d4b8f') in 0.002502 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.976950 seconds.
+  path: Assets/Materials/Floor.mat
+  artifactKey: Guid(e8b5034d43a27409c9718e109f3d88f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Floor.mat using Guid(e8b5034d43a27409c9718e109f3d88f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a5db31e8d8471981cec0a667c7cc47d') in 0.016218 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 144.740154 seconds.
+  path: Assets/Materials/WoodPrincipal.mat
+  artifactKey: Guid(f8ed834c36cca476cb932decb78a5fbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/WoodPrincipal.mat using Guid(f8ed834c36cca476cb932decb78a5fbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2635727622b5a12297d7adddf04bd30') in 0.033039 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 107.688487 seconds.
+  path: Assets/Materials/WoodSecondary.mat
+  artifactKey: Guid(1563affb321454165960698495b36c94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/WoodSecondary.mat using Guid(1563affb321454165960698495b36c94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0abe852b9038986c394faf26bde6ed85') in 0.032643 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 113.904974 seconds.
+  path: Assets/BigFurniturePack/Models/Materials/cloth_1.mat
+  artifactKey: Guid(3ce1607272ebf6f409222542a2548d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BigFurniturePack/Models/Materials/cloth_1.mat using Guid(3ce1607272ebf6f409222542a2548d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b63b07a026c9e4d3b0d1892d42ed01f4') in 0.017868 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/BigFurniturePack/Models/Materials/cloth_4.mat
+  artifactKey: Guid(b5ded758bc8effe4a8fca6adf3012a5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BigFurniturePack/Models/Materials/cloth_4.mat using Guid(b5ded758bc8effe4a8fca6adf3012a5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a54fd2f76f7f00852c3a4c876b4c2e6') in 0.044628 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/BigFurniturePack/Models/Materials/cloth_2.mat
+  artifactKey: Guid(175c48b70a024c3478904cbd8e8be5f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BigFurniturePack/Models/Materials/cloth_2.mat using Guid(175c48b70a024c3478904cbd8e8be5f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7838e5d9cb3d3a43833e3a1750667762') in 0.039835 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000998 seconds.
+  path: Assets/BigFurniturePack/Models/Materials/cloth_3.mat
+  artifactKey: Guid(1a44110be72ce9e4bbf38a866d859da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BigFurniturePack/Models/Materials/cloth_3.mat using Guid(1a44110be72ce9e4bbf38a866d859da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '854b4c5c2ea563430c5ec36e566e0eab') in 0.013699 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.067280 seconds.
+  path: Assets/BigFurniturePack/Models/Materials/base_material 2.mat
+  artifactKey: Guid(e2ff4118305d11c41bb216685380c6ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BigFurniturePack/Models/Materials/base_material 2.mat using Guid(e2ff4118305d11c41bb216685380c6ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a12f89d9fccdf510e9c5a08a622467f') in 0.018531 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/BigFurniturePack/Models/Materials/wood_3.mat
+  artifactKey: Guid(9a21eb46837654f4f84d01d31001741d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BigFurniturePack/Models/Materials/wood_3.mat using Guid(9a21eb46837654f4f84d01d31001741d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f83c6dfc93c295a37f73c78cd42cbf1') in 0.048219 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/BigFurniturePack/Models/Materials/wood_1.mat
+  artifactKey: Guid(888daeabd7af8694783c9a32a9ca19d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BigFurniturePack/Models/Materials/wood_1.mat using Guid(888daeabd7af8694783c9a32a9ca19d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf8e185873adc4a3009679b907e2d445') in 0.022058 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/BigFurniturePack/Models/Materials/wood_2.mat
+  artifactKey: Guid(9ef60bdc624a1594e89bdc4d48adc8da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BigFurniturePack/Models/Materials/wood_2.mat using Guid(9ef60bdc624a1594e89bdc4d48adc8da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccb6f28130061e514bba0bc50c8c0742') in 0.037007 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/BigFurniturePack/Models/Materials/floor.mat
+  artifactKey: Guid(4b0cad466fb77ed4981710d807cf7ce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BigFurniturePack/Models/Materials/floor.mat using Guid(4b0cad466fb77ed4981710d807cf7ce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b895fa5981291b4a34b442a7a47b9b63') in 0.064224 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/BigFurniturePack/Models/Materials/wood_4.mat
+  artifactKey: Guid(6a76e7af6b1ec1147a48ad88ee029051) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BigFurniturePack/Models/Materials/wood_4.mat using Guid(6a76e7af6b1ec1147a48ad88ee029051) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7941f0c1a41b34faef287374a95fa370') in 0.031070 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/BigFurniturePack/Models/Materials/base_material.mat
+  artifactKey: Guid(366679cf3713065428e131e78f9593ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BigFurniturePack/Models/Materials/base_material.mat using Guid(366679cf3713065428e131e78f9593ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95496f9846e56f8321ab107a2192f88e') in 0.033390 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 102.029052 seconds.
+  path: Assets/Materials/Metal.mat
+  artifactKey: Guid(443adcff9afae43b196062c6d4636f70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Metal.mat using Guid(443adcff9afae43b196062c6d4636f70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dba906de56a1e88b5a4c3386215f7065') in 0.015232 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 41.143791 seconds.
+  path: Assets/Materials/Floor.mat
+  artifactKey: Guid(e8b5034d43a27409c9718e109f3d88f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Floor.mat using Guid(e8b5034d43a27409c9718e109f3d88f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '584d34e271b0174767e492380fd34ca8') in 0.048914 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000548 seconds.
+  path: Assets/Materials/Metal.mat
+  artifactKey: Guid(443adcff9afae43b196062c6d4636f70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Metal.mat using Guid(443adcff9afae43b196062c6d4636f70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b3e95fc640a590d0105f97bfc8547b3') in 0.026674 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000510 seconds.
+  path: Assets/Materials/WoodPrincipal.mat
+  artifactKey: Guid(f8ed834c36cca476cb932decb78a5fbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/WoodPrincipal.mat using Guid(f8ed834c36cca476cb932decb78a5fbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2829127586d92191b5c5d8401068c6d1') in 0.019314 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Materials/WoodSecondary.mat
+  artifactKey: Guid(1563affb321454165960698495b36c94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/WoodSecondary.mat using Guid(1563affb321454165960698495b36c94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9437b42a376566fbb2378a134f1bc41c') in 0.027250 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Materials/WallColor.mat
+  artifactKey: Guid(a859c518e982c4b718599c4d4f44ac5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/WallColor.mat using Guid(a859c518e982c4b718599c4d4f44ac5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64453b26034abfc42ac6997326bd771b') in 0.025048 seconds 
