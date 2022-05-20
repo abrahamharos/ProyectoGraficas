@@ -520,3 +520,15 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 560.891534 seconds.
+  path: Assets/Materials/cloth_1.mat
+  artifactKey: Guid(3ce1607272ebf6f409222542a2548d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/cloth_1.mat using Guid(3ce1607272ebf6f409222542a2548d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e04398ebb49b3a6de2cc47aaaefcfa9f') in 0.101444 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Materials/cloth_3.mat
+  artifactKey: Guid(1a44110be72ce9e4bbf38a866d859da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/cloth_3.mat using Guid(1a44110be72ce9e4bbf38a866d859da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0585eb216937e1c687c2d092339f4646') in 0.016563 seconds 
