@@ -8,6 +8,7 @@ public class TurnLight : MonoBehaviour
     public GameObject lampLight;
     public GameObject spotLight;
     public GameObject bathroomLight;
+    public GameObject deskLight;
 
     public bool isLightActive;
 
@@ -27,5 +28,6 @@ public class TurnLight : MonoBehaviour
         lampLight.SetActive(!isLightActive);
         spotLight.SetActive(!isLightActive);
         bathroomLight.SetActive(!isLightActive);
+        deskLight.SetActive(!isLightActive);
     }
 }
